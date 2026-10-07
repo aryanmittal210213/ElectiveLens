@@ -141,10 +141,7 @@ T3 — Recommender Systems and Personalization
 
 The project demonstrates the application of Information Retrieval techniques to personalized academic course recommendation.
 
-👥 Team
-Contributor	Role
-Kriti Sharma	Development, IR pipeline, frontend, testing
-Aryan Mittal	Project collaboration
+
 📌 Status
 
 Working prototype
